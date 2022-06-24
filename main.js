@@ -11,7 +11,7 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
 // Tiêu đề bài hát, tương ứng với các file mp3
-const songs = ["mot_phut", "hen_yeu", "roi_xa"];
+const songs = ["see_tinh", "mot_phut", "hen_yeu", "roi_xa"];
 
 // Lấy index bất kỳ trong mảng songs để hiện thị
 let songIndex = 2;
